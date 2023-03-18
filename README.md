@@ -15,4 +15,4 @@ The produced avatars presented in the presentation for the project are a product
 The intent of this project is to use a fixed set of a few in-house developed avatars. This is for the purpose of increasing the quality, cost cuts, and comptational efficiency.
 
 
-
+Estimated time to complete is by end of summer with the right team and resources.
