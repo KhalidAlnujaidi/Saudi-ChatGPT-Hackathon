@@ -16,11 +16,10 @@ As a starting point and proof of concept, the avatars presented in the project a
 With these in place, we estimate that the project could be completed by the end of the summer.
 
 
-### To try out the app
-
-- `git clone https://github.com/KhalidAlnujaidi/Saudi-ChatGPT-Hackathon.git` 
-- `cd Saudi-ChatGPT-Hackathon.git`
-- `pip install -r requirements.txt`
+#### To try out the app
+ffmpeg must be installed in the system
+`git clone https://github.com/KhalidAlnujaidi/Saudi-ChatGPT-Hackathon.git` 
+`cd Saudi-ChatGPT-Hackathon.git``pip install -r requirements.txt`
 
 
 
