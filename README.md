@@ -11,7 +11,9 @@ The text output of ChatGPT is then fed into a Text-to-Visual-Speech, that produc
 
 Short 2:30 minutes live working demo of a Voice-to-voice convo with the avatar: https://youtu.be/a2JKVeLiWJk it was asked to act as a tour guide and talk a bit about Saudi Arabia and then NEOM.
 
-As a starting point and proof of concept, the avatars presented in the project are a product of movio.la studio, which is provided through an API as well as traditional transactional means. However, the goal of the project is to have a fixed set of in-house developed avatars. This approach will increase the quality of animation, while also reducing costs and improving computational efficiency and latency of responses. To achieve this, we need a small team of developers, proper resources, and a few months. 
+As a starting point and proof of concept, the avatars presented in the project are a product of movio.la studio, which is provided through an API as well as traditional transactional means. However, the goal of the project is to have a fixed set of in-house developed avatars. This approach will increase the quality of animation, while also reducing costs and improving computational efficiency and latency of responses. 
+
+To delivor this project, a small team of developers, proper resources, and a few months is what it is going to take. 
 
 
 #### To try out the app
