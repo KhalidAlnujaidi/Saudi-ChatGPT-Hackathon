@@ -6,7 +6,8 @@
 
 The idea is a super intelegent avatar that can fleuntly conversate with users.
 
-The avatar is for the most part powered by OpenAI's technology. It uses whisper and ChatGPT models.
+The avatar is for the most part powered by OpenAI's technology. It uses whisper and ChatGPT models to communicate.
+The text output of ChatGPT is then fed into a Text-to-Visual-Speech, that produces both pychiacal animation and a voice.
 
 Short 2:30 minutes live working demo of only a Voice-to-voice convo with the avatar: https://youtu.be/a2JKVeLiWJk
 
