@@ -20,6 +20,11 @@ With these in place, we estimate that the project could be completed by the end 
 - ffmpeg must be installed in the system <br>
 - ```git clone https://github.com/KhalidAlnujaidi/Saudi-ChatGPT-Hackathon.git Enter cd Saudi-ChatGPT-Hackathon.git Enter pip install -r requirements.txt```
 
+<pre><code>
+git clone https://github.com/KhalidAlnujaidi/Saudi-ChatGPT-Hackathon.git  
+cd Saudi-ChatGPT-Hackathon.git  
+pip install -r requirements.txt
+</code></pre>
 
 
 - ffmpeg: `sudo apt-get install ffmpeg`
