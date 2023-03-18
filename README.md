@@ -23,6 +23,4 @@ git clone https://github.com/KhalidAlnujaidi/Saudi-ChatGPT-Hackathon.git
 cd Saudi-ChatGPT-Hackathon
 pip install -r requirements.txt
 ```
-<br>
 
-and make uprompriate changes based on comments
