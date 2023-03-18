@@ -20,5 +20,6 @@ ffmpeg must be installed in the system <br>
 git clone https://github.com/KhalidAlnujaidi/Saudi-ChatGPT-Hackathon.git 
 cd Saudi-ChatGPT-Hackathon
 pip install -r requirements.txt
+python web.py
 ```
 
