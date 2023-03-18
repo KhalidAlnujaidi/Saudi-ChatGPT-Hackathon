@@ -1,7 +1,7 @@
 ![saudi](https://user-images.githubusercontent.com/93127443/226091650-606a897a-c964-4d4d-a32e-b728dcd58585.png)
 
 
-# intelligent avatar
+# Intelligent Avatar
 
 
 This repository is a show case of the project concept and vision.
