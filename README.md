@@ -12,7 +12,7 @@ The avatar is for the most part powered by OpenAI's technology. It uses whisper 
 
 Short 2:30 minutes live working demo of only a Voice-to-voice convo with the avatar: https://youtu.be/a2JKVeLiWJk
 
-The produced avatars presented in the presentation for the project are a product of movio.la studio. They provide an API a part of thier service as well traditional trasaction.
+The produced avatars presented in the presentation for the project are a product of movio.la studio. They provide an API a part of thier service as well traditional transactional means.
 
 The intent of this project is to use a fixed set of a few in-house developed avatars. This is for the purpose of increasing the quality, cost cuts, and comptational efficiency.
 
