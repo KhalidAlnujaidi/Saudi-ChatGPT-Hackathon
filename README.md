@@ -14,7 +14,7 @@ As a starting point and proof of concept, the avatars presented in the project p
 To deliver this project, a small team of developers, proper resources, and a few months is what it is going to take. 
 
 
-### To try out the app
+## To try out the app
 ffmpeg must be installed in the system <br>
 ```
 git clone https://github.com/KhalidAlnujaidi/Saudi-ChatGPT-Hackathon.git 
