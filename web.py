@@ -54,7 +54,7 @@ def trascribe(audio):
 
     return chat_transcript
 
-
+# change source="upload" to source="microphone" to record instead of upload what you want to say
 ui = gr.Interface(fn=trascribe, inputs=gr.Audio(source="upload", type="filepath"), outputs="text").launch()
 
 
