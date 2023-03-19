@@ -11,6 +11,8 @@ The text output of ChatGPT is then fed into a Text-to-Visual-Speech, that produc
 
 As a starting point and proof of concept, the [avatars presented in the project pitch](https://youtu.be/RSBSzHvDC1w) is a product of movio.la studio, which is provided through an API as well as traditional mean. However, <b>the goal of the project is to have a fixed set of in-house developed avatars.</b> This approach will increase the quality of animation, while also reducing costs and improving computational efficiency and latency of responses. 
 
+As for the hallucinations of ChatGPT, these models are easily fine-tuned depending on the use case.
+
 To deliver this project, a small team of developers, proper resources, and a few months is what it is going to take. 
 
 
